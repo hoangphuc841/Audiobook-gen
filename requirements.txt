@@ -1,0 +1,4 @@
+google-genai
+pdfplumber
+pydub
+static-ffmpeg

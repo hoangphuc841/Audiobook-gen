@@ -1,0 +1,4 @@
+.env
+/audiobook_cache
+/__pycache__
+/superpowers
